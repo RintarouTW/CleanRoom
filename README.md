@@ -1,5 +1,7 @@
 # Simplified Filter Extension
 
+<center><img src="https://i.imgur.com/slr2o7b.png"></center>
+
 Chrome Extension
 
 Auto filter repeated messages and the one written in simplified chinese for Youtube Chat.
@@ -15,7 +17,7 @@ Auto filter repeated messages and the one written in simplified chinese for Yout
 
 ## Usage in Youtube Chat Room
 
-Click on the badge to switch on/off.
+Click on the icon to switch on/off. The badge would show how many messages it filtered.
 
 ## Filtered Messages
 
