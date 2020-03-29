@@ -1,0 +1,46 @@
+{
+  "name": "Simplified Filter Extension",
+  "version": "1.0",
+  "description": "Auto filter simplified chinese or duplicated spam in Youtube chat.",
+  "permissions": [
+    "https://www.youtube.com/*",
+    "storage"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "images/icon_16x16.png",
+      "32": "images/icon_32x32.png",
+      "48": "images/icon_48x48.png",
+      "128": "images/icon_128x128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/live_chat*"
+      ],
+      "run_at": "document_start",
+      "all_frames": true,
+      "js": [
+        "loader.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    "SimplifiedFilter.js",
+    "default.js"
+  ],
+  "icons": {
+    "16": "images/icon_16x16.png",
+    "32": "images/icon_32x32.png",
+    "48": "images/icon_48x48.png",
+    "128": "images/icon_128x128.png"
+  },
+  "manifest_version": 2
+}
