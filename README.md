@@ -9,7 +9,7 @@ Auto filter repeated messages and the one written in simplified chinese for Yout
 ## Install
 
 1. Download this repository as a zip and decompress it to a folder.
-2. In your Chrome URL, type 'chrome://extensions/', it'll lead you to the extensions management page.
+2. In your Chrome URL, type `chrome://extensions/`, it'll lead you to the extensions management page.
 3. Toun on the Developer Mode (the toggle on the top right corner of the page)
 4. Click Load unpacked button and choose the decompressed directory.
 
