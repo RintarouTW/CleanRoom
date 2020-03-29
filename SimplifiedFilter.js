@@ -193,4 +193,4 @@ class SimplifiedFilter {
 	}
 }
 
-FreedomOfSpeech = new SimplifiedFilter();
+CleanRoom = new SimplifiedFilter();
