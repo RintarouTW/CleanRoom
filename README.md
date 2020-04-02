@@ -1,6 +1,6 @@
 # Simplified Filter Extension
 
-<center><img src="https://i.imgur.com/slr2o7b.png"></center>
+<center><img src="https://i.imgur.com/slr2o7b.png" /></center>
 
 一個簡單的 Chrome 延伸套件，可自動過濾 Youtube 聊天室中簡體與重覆腦殘訊息。
 
