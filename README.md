@@ -10,9 +10,9 @@ Auto filter repeated messages and the one written in simplified chinese for Yout
 
 ## Install
 
-1. [下載](https://github.com/RintarouTW/CleanRoom/archive/master.zip) 成 .zip 檔案，並解壓縮。
+1. [下載](https://github.com/RintarouTW/CleanRoom/zipball/release) 成 .zip 檔案，並解壓縮。
 
-   [Download](https://github.com/RintarouTW/CleanRoom/archive/master.zip) this repository as a zip and decompress it to a folder.
+   [Download](https://github.com/RintarouTW/CleanRoom/tarball/release) this repository as a zip and decompress it to a folder.
 
 2. 在 Chrome URL 中輸入 `chrome://extensions/`，進入延伸套件管理頁面。
 
