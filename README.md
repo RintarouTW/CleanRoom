@@ -1,8 +1,8 @@
-# Simplified Filter Extension
+# CleanRoom Filter Extension
 
 <center><img src="https://i.imgur.com/CCxbDVb.png" /></center>
 
-一個簡單的 Chrome 延伸套件，可自動過濾 Youtube 聊天室中簡體與重覆腦殘訊息。
+一個簡單的 Chrome 延伸套件，可自動過濾 YouTube 聊天室中簡體與重覆腦殘訊息。
 
 This is a simple Chrome extension.
 
@@ -10,9 +10,10 @@ Auto filter repeated messages and the one written in simplified chinese for Yout
 
 ## Install
 
-1. 下載(Clone or Download)成 Zip 檔案，並解壓縮。
+1. [下載](https://github.com/RintarouTW/CleanRoom/archive/master.zip)(Clone or Download)成 Zip 檔案，並解壓縮。
    
-   Download this repository as a zip and decompress it to a folder.
+   [Download](https://github.com/RintarouTW/CleanRoom/archive/master.zip) this repository as a zip and decompress it to a folder.
+
 2. 在 Chrome URL 中輸入 `chrome://extensions/`，進入延伸套件管理頁面。
    
    In your Chrome URL, type `chrome://extensions/`, it'll lead you to the extensions management page.
