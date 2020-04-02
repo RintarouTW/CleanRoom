@@ -2,4 +2,5 @@ theme: jekyll-theme-merlot
 show_downloads: "true"
 google_analytics: UA-1860703-9
 github:
-  download_url: https://github.com/RintarouTW/CleanRoom/zipball/release
+  zip_url: https://github.com/RintarouTW/CleanRoom/zipball/release
+  another_url: https://github.com/RintarouTW/CleanRoom/tarball/release
