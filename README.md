@@ -10,7 +10,7 @@ Auto filter repeated messages and the one written in simplified chinese for Yout
 
 ## Install
 
-1. [下載](https://github.com/RintarouTW/CleanRoom/archive/master.zip)(Clone or Download)成 Zip 檔案，並解壓縮。
+1. [下載](https://github.com/RintarouTW/CleanRoom/archive/master.zip) 成 .zip 檔案，並解壓縮。
    
    [Download](https://github.com/RintarouTW/CleanRoom/archive/master.zip) this repository as a zip and decompress it to a folder.
 
