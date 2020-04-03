@@ -10,9 +10,9 @@ Auto filter repeated messages and the one written in simplified chinese for Yout
 
 ## Install
 
-1. [下載](https://github.com/RintarouTW/CleanRoom/archive/master.zip) 成 .zip 檔案，並解壓縮。
+1. [下載](https://github.com/RintarouTW/CleanRoom/zipball/release) release branch 成 .zip 檔案，並解壓縮。
 
-   [Download](https://github.com/RintarouTW/CleanRoom/archive/master.zip) this repository as a zip and decompress it to a folder.
+   [Download](https://github.com/RintarouTW/CleanRoom/zipball/release) the release branch as a zip and decompress it to a folder.
 
 2. 在 Chrome URL 中輸入 `chrome://extensions/`，進入延伸套件管理頁面。
 
@@ -32,6 +32,6 @@ Click on the icon to switch on/off. The badge would show how many messages it fi
 
 ## Filtered Messages
 
-被過濾的訊息仍會紀綠在 Developer Tool 的 Console 中，按下 CMD + Option + I 可查閱。
+被過濾的訊息仍會紀綠在 Developer Tool 的 Console 中，按下 <kbd>CMD</kbd> + <kbd>Option</kbd> + <kbd>I</kbd> 可查閱。
 
-The filtered messages would be logged in the console. (CMD + Option + I)
+The filtered messages would be logged in the console. (<kbd>CMD</kbd> + <kbd>Option</kbd> + <kbd>I</kbd>)

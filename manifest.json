@@ -1,7 +1,7 @@
 {
-  "name": "Simplified Filter Extension",
+  "name": "CleanRoom Filter Extension",
   "version": "1.0",
-  "description": "Auto filter simplified chinese or duplicated spam in Youtube chat.",
+  "description": "Auto filter simplified chinese or duplicated spam messages in YouTube chat.",
   "permissions": [
     "https://www.youtube.com/*",
     "storage"
