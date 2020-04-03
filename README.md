@@ -1,6 +1,6 @@
 # CleanRoom Filter Extension
 
-<center><img src="https://i.imgur.com/CCxbDVb.png" /></center>
+![](https://i.imgur.com/iuKndTM.png)
 
 一個簡單的 Chrome 延伸套件，可自動過濾 YouTube 聊天室中簡體與重覆腦殘訊息。
 
