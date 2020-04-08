@@ -6,7 +6,7 @@
 
 This is a simple Chrome extension.
 
-Auto filter repeated messages and the one written in simplified chinese for Youtube Chat.
+Auto filter repeated messages and the one written in simplified chinese for YouTube Chat.
 
 ## Install
 
@@ -24,7 +24,7 @@ Auto filter repeated messages and the one written in simplified chinese for Yout
 
    Click on `Load unpacked`  button and choose the decompressed directory.
 
-## Usage in Youtube Chat Room
+## Usage in YouTube Chat Room
 
 在 Icon 上點擊即可切換開關(ON/OFF)，開啟後會顯示目前已過濾的訊息數量。
 
